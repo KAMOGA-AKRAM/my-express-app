@@ -16,7 +16,7 @@ app.get('/greetings',(request,response) => {
 // List of Friends
 
 let students = [
-    {"id": 1,"name":"Tabby"},
+    {"id": 1,"name":"Gabby"},
     {"id": 2,"name":"Tom"},
     {"id": 3,"name":"Jose"},
     {"id": 4,"name":"Lorna"},
